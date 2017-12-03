@@ -1,7 +1,3 @@
-/******************************************
-/* SETUP
-/*******************************************/
-
 /* Box Model Hack */
 * {
      -moz-box-sizing: border-box; /* Firexfox */
@@ -33,9 +29,6 @@
 	padding: 0 10px 10px 0; /* note the padding around a left floated image */
 }
 
-/******************************************
-/* BASE STYLES
-/*******************************************/
 
 body {
      color: #000;
@@ -45,11 +38,6 @@ body {
 }
 
 
-/******************************************
-/* LAYOUT
-/*******************************************/
-
-/* Center the container */
 #container {
 	width: 960px;
 	margin: auto;
@@ -68,13 +56,3 @@ background:url(https://s3-media3.fl.yelpcdn.com/assets/srv0/yelp_large_assets/fa
  background-size: cover;
 
 }
-
-footer {
-
-
-}
-
-
-/******************************************
-/* ADDITIONAL STYLES
-/*******************************************/
